@@ -42,7 +42,7 @@ Mi meta es convertirme en un **Full Stack Developer** completo, capaz de constru
 
 Estoy abierto a colaborar, aprender y compartir conocimiento.  
 📬 Si tenés una idea, necesitás ayuda en un proyecto o querés intercambiar feedback, ¡hablemos!
-📬 Contacto: [Haz clic para escribirme](mailto:csaszar.ignaciov@gmail.com)
+📬 Contacto: [Haz clic para escribirme](mailto:csaszar.ignacio@gmail.com)
 
 
 Gracias por pasar por aquí 🚀
