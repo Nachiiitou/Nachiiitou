@@ -3,6 +3,7 @@
 Soy un desarrollador web autodidacta con enfoque en **Full Stack Development**.  
 Me apasiona la informática, la programación y el aprendizaje constante. Actualmente estoy construyendo una serie de **10 proyectos Full Stack** para fortalecer mis habilidades tanto en frontend como en backend.
 
+Además, soy fundador de [**Zennith**](https://www.zennith.cl), una pyme de consultoría y servicios informáticos, donde desarrollo soluciones digitales para clientes reales y brindo soporte técnico personalizado.
 ---
 
 ## 🚀 En formación activa
