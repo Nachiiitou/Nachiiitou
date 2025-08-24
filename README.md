@@ -9,10 +9,10 @@ Además, soy fundador de [**Zennith**](https://www.zennith.cl), una pyme de cons
 
 ## 🚀 En formación activa
 
-- **Lenguajes & Herramientas:** Python, JavaScript, C++, C#, HTML5  
+- **Lenguajes & Herramientas:** Python, JavaScript, C++, HTML5  
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript, Vite  
-- **Backend (en formación):** Node.js, Express, MongoDB, PostgreSQL, Prisma 
-- **Dev Tools:** Git, GitHub, Postman, Vercel, Render, Docker *(básico)*  
+- **Backend (en formación):** Node.js, Django, PostgreSQL, SQL 
+- **Dev Tools:** Git, GitHub, Vercel,, Docker   
 - **Cloud / DevOps:** En proceso de certificación en **OCI Developer** y **OCI DevOps (Oracle Cloud Infrastructure)**
 
 ---
